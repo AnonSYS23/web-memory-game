@@ -145,7 +145,7 @@ class Memorama {
 
         if (this.maxPairNumber == this.foundPairs) {
 
-            alert("¡Ganaste!");
+            alert("Ganaste esta vez, felicidades!");
             this.setNewGame();
             
         }
